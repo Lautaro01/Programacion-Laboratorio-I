@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522077940 source:c:\users\alumno\desktop\crear funcion dos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baus.h"
+
+1522077895 c:\users\alumno\desktop\crear funcion dos\baus.h
+
