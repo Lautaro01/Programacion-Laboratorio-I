@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524058906 source:c:\users\alumno\desktop\validar no sea una letra\main.c
+	<stdio.h>
+	<stdlib.h>
+
