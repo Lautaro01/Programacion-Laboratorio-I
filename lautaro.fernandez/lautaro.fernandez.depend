@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525911935 source:d:\programasao\c\lautaro.fernandez\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1525860934 d:\programasao\c\lautaro.fernandez\funciones.h
+
+1525860933 source:d:\programasao\c\lautaro.fernandez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
