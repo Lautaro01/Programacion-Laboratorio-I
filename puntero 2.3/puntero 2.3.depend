@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526481350 source:c:\users\alumno\desktop\puntero 2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+
