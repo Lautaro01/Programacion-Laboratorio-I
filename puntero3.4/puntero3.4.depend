@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526910123 source:c:\users\alumno\desktop\puntero3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
