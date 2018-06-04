@@ -1,0 +1,3 @@
+pedro,fernandez,X,7
+juan,Perez,Z,4
+yoelcito,tontito,Y,3
